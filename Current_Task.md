@@ -201,7 +201,7 @@ ai personality- ai tech news
 we can utilise mcp servers for papers search, fetching news from crucial x accounts
 
 mcp servers:
-brave search, markitdown, arxiv-mcp-server, taazkareem/twitter-mcp-server
+brave search, markitdown, arxiv-mcp-server, taazkareem/twitter-mcp-server 
 
 
 
